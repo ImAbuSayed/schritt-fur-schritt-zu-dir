@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schritt-fur-schritt-zu-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Schritt für Schritt zu dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schritt-fur-schritt-zu-dir/) |
+| **Get License** | [Get License For Schritt für Schritt zu dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schritt-fur-schritt-zu-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4631)
 
 ---
 
