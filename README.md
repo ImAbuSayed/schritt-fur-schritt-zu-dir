@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schritt-fur-schritt-zu-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Schritt für Schritt zu dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schritt-fur-schritt-zu-dir/) |
+| **Get License** | [Commercial Licensing for Schritt für Schritt zu dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schritt-fur-schritt-zu-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schritt für Schritt zu dir, durch die Lichter der Stadt
+> Weil mich keine andere Frau so verzaubert hat
+> Rote Augen im Benz, aber klarer Verstand
+> Lass uns fliegen durch die Nacht, Baby, nimm meine Hand
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
